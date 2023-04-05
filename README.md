@@ -1,4 +1,4 @@
-# bankapp-mock-api
+# projectname-mock-api
 
 #### Prerequisite
 * Create a folder
