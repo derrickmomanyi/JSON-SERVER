@@ -2,7 +2,7 @@
   "name": "bot",
   "version": "0.1.0",
   "private": true,
-  "proxy":"http://localhost:3000/bots",
+  "proxy":"https://json-server-8vqy.onrender.com/bots",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "Json": "$ json-server --watch db.json,http://localhost:3000/bots",
+    "Json": "$ json-server --watch db.json,https://json-server-8vqy.onrender.com/bots",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
