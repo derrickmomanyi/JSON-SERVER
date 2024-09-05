@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "c@email.com",
+      "password": "pass",
+      "role": "CEO",
+      "full_name": "John Doe",
+      "profile_picture": "https://example.com/profile_pictures/ceo.jpg"
+    },
+    {
+      "id": 2,
+      "email": "h@email.com",
+      "password": "pass",
+      "role": "HR-Manager",
+      "full_name": "Jane Smith",
+      "profile_picture": "https://example.com/profile_pictures/hrmanager.jpg"
+    },
+    {
+      "id": 3,
+      "email": "e@email.com",
+      "password": "pass",
+      "role": "Employee",
+      "full_name": "Alice Johnson",
+      "profile_picture": "https://example.com/profile_pictures/employee.jpg"
+    },
+    {
+      "id": 4,
+      "email": "d@email.com",
+      "password": "pass",
+      "role": "Department",
+      "full_name": "Alice Johnson",
+      "profile_picture": "https://example.com/profile_pictures/employee.jpg"
+    }
+  ]
+}
